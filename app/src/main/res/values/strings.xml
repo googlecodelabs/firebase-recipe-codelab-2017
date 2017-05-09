@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Recipe Codelab</string>
+    <string name="game_title">Awesome Game</string>
+    <string name="try_again">Play Again!</string>
+    <string name="try_again_title">Failed...</string>
+    <string name="start">START</string>
+    <string name="reward_button_text">Play again with hint\nby watching ads!</string>
+    <string name="hint_text">NOT HERE</string>
+    <string name="home">HOME</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="how_to_play_text">Part of picture changing slowly. Tap there to win!</string>
+</resources>

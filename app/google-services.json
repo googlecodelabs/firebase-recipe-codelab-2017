@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190847271105",
+    "firebase_url": "https://fir-recipe-codelab.firebaseio.com",
+    "project_id": "fir-recipe-codelab",
+    "storage_bucket": "fir-recipe-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190847271105:android:9b5e74653c1cae14",
+        "android_client_info": {
+          "package_name": "com.recipe.firebase.firebaserecipecodelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190847271105-sve239m2i13pp250rs3bkhvldu35lq05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipe.firebase.firebaserecipecodelab",
+            "certificate_hash": "6e306e4f37a5cbc2df6cca5134eb533cd8fa8a31"
+          }
+        },
+        {
+          "client_id": "190847271105-p3opt25mseojqaps1ipa6l2lhgdo78om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ3KL_GNMO7FUaGBdATZJfzGoreOMc2Cw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190847271105-p3opt25mseojqaps1ipa6l2lhgdo78om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
